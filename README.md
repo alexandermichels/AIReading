@@ -21,6 +21,7 @@ I recommend starting here for basic Neural Network concepts.
 * [Recurrent Neural Network Tutorial, Part 4 – Implementing a GRU/LSTM RNN with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
 ### Other Sources
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-nlp)
 * [edX Course on Natural Language Processing](https://courses.edx.org/courses/course-v1:Microsoft+DEV288x+1T2018/course/)
 * [Oxford Deep NLP 2017 Course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
