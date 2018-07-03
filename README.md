@@ -1,4 +1,4 @@
-# Recommended Websites on A.I/Machine Learning
+# Recommended Websites on A.I./Machine Learning
 
 ### [Andrej Karpathy Blog](http://karpathy.github.io/)
 
