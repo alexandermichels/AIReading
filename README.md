@@ -28,10 +28,21 @@ I recommend starting here for basic Neural Network concepts.
 
 ### Preprocessing Techniques, Text Mining, and Information Retrieval
 
-Copies of many of these papers are in the PDF directory. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
+Copies of these papers are in the PDF directory. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
+
+##### General
 
 * [Evolving Better Stoplists for Document Clustering and Web Intelligence](https://pdfs.semanticscholar.org/c53f/17e9ae7ff1ba13aba902739f4df85054cb0a.pdf)
 * [On Stopwords, Filtering and Data Sparsity for Sentiment Analysis of Twitter](http://oro.open.ac.uk/40666/1/292_Paper.pdf)
 * [Preprocessing Techniques for Text Mining - An Overview](https://pdfs.semanticscholar.org/1fa1/1c4de09b86a05062127c68a7662e3ba53251.pdf)
 * [Retrieval Effectiveness on the Web](https://www.sciencedirect.com/science/article/pii/S030645730000039X)
 * [Text Mining: The State of the Art and the Challenges](http://www.ntu.edu.sg/home/asahtan/papers/tm_pakdd99.pdf)
+
+##### doc2vec
+
+I haven't read through these yet, but it seems that *Efficient Estimation of Word Representations in Vector Space* and *Distributed Representations of Words and Phrases and their Compositionality* started it all. Here are the links for documentation on [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html).
+
+* [An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation](An_Empirical_Evaluation_of_doc2vec_with_Practical_Insights_into_Document_Embedding_Generation.pdf)
+* [Distributed Representations of Words and Phrases and their Compositionality](Distributed_Representations_of_Words_and_Phrases_and_their_Compositionality.pdf)
+* [Efficient Estimation of Word Representations in Vector Space](Efficient_Estimation_of_Word_Representations_in_Vector_Space.pdf)
+* [Neural Network Doc2vec in Automated Sentiment Analysis for Short Informal Texts](Neural_Network_Doc2vec_in_Automated_Sentiment_Analysis_for_Short_Informal_Texts.pdf)
