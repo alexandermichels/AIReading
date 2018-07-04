@@ -25,3 +25,13 @@ I recommend starting here for basic Neural Network concepts.
 * [edX Course on Natural Language Processing](https://courses.edx.org/courses/course-v1:Microsoft+DEV288x+1T2018/course/)
 * [Oxford Deep NLP 2017 Course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+### Preprocessing Techniques, Text Mining, and Information Retrieval
+
+Copies of many of these papers are in the PDF directory. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
+
+* [Evolving Better Stoplists for Document Clustering and Web Intelligence](https://pdfs.semanticscholar.org/c53f/17e9ae7ff1ba13aba902739f4df85054cb0a.pdf)
+* [On Stopwords, Filtering and Data Sparsity for Sentiment Analysis of Twitter](http://oro.open.ac.uk/40666/1/292_Paper.pdf)
+* [Preprocessing Techniques for Text Mining - An Overview](https://pdfs.semanticscholar.org/1fa1/1c4de09b86a05062127c68a7662e3ba53251.pdf)
+* [Retrieval Effectiveness on the Web](https://www.sciencedirect.com/science/article/pii/S030645730000039X)
+* [Text Mining: The State of the Art and the Challenges](http://www.ntu.edu.sg/home/asahtan/papers/tm_pakdd99.pdf)
