@@ -24,7 +24,17 @@ I recommend starting here for basic Neural Network concepts.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-nlp)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-## Preprocessing Techniques, Text Mining, and Information Retrieval
+## Automated Fact-Checking
+
+* [Automated Fact-Checking presentation by Joshua Chen](http://joshchen.io/Computational%20Fact-Checking/Automated%20fact-checking%20-%20Jul%2025.pdf)
+
+###### Papers
+
+* [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
+* [Discrimintive Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
+
+## Natural Language Processing
 
 Copies of these papers are in the PDF directory. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
 
