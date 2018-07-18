@@ -31,6 +31,7 @@ I recommend starting here for basic Neural Network concepts.
 ###### Papers
 
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
+* [Computational Fact Checking through Query Pertubations](pdf/Computational_Fact_Checking_through_Query_Pertubations.pdf)
 * [Discrimintive Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
