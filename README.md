@@ -53,6 +53,7 @@ Copies of these papers are in the PDF directory. I recommend starting with "Text
 * [On Stopwords, Filtering and Data Sparsity for Sentiment Analysis of Twitter](http://oro.open.ac.uk/40666/1/292_Paper.pdf)
 * [Preprocessing Techniques for Text Mining - An Overview](https://pdfs.semanticscholar.org/1fa1/1c4de09b86a05062127c68a7662e3ba53251.pdf)
 * [Retrieval Effectiveness on the Web](https://www.sciencedirect.com/science/article/pii/S030645730000039X)
+* [Risk Information Extraction and Aggregation](pdf/Risk_Information_Extraction_and_Aggregation.pdf)
 * [Text Mining: The State of the Art and the Challenges](http://www.ntu.edu.sg/home/asahtan/papers/tm_pakdd99.pdf)
 
 #### word2vec and doc2vec
