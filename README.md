@@ -35,6 +35,8 @@ I recommend starting here for basic Neural Network concepts.
 
 ## Knowledge Graphs and Computational Fact-Checking
 
+This is cool stuff
+
 * [Automated Fact-Checking presentation by Joshua Chen](http://joshchen.io/Computational%20Fact-Checking/Automated%20fact-checking%20-%20Jul%2025.pdf)
 
 ###### Papers
@@ -68,7 +70,7 @@ Copies of these papers are in the PDF directory. I recommend starting with "Text
 
 #### word2vec and doc2vec
 
-I haven't read through these yet, but it seems that *Efficient Estimation of Word Representations in Vector Space* and *Distributed Representations of Words and Phrases and their Compositionality* started it all. Here are the links for documentation on [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html).
+*Efficient Estimation of Word Representations in Vector Space* and *Distributed Representations of Words and Phrases and their Compositionality* started it all. Here are the links for documentation on [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html).
 
 ###### Articles, Blogposts, and Tutorials
 
