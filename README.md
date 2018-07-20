@@ -1,4 +1,13 @@
-# Recommended Websites on A.I./Machine Learning
+# Recommended Sources on A.I./Machine Learning
+
+## Table of Contents
+* General Machine Learning and Artificial Intelligence
+* Knowledge Graphs and Computational Fact-Checking
+* Natural Language Processing
+  * General
+  * word2vec and doc2vec
+
+## General Machine Learning and Artificial Intelligence
 
 ##### [Andrej Karpathy Blog](http://karpathy.github.io/)
 
@@ -24,15 +33,16 @@ I recommend starting here for basic Neural Network concepts.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-nlp)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-## Computational Fact-Checking
+## Knowledge Graphs and Computational Fact-Checking
 
 * [Automated Fact-Checking presentation by Joshua Chen](http://joshchen.io/Computational%20Fact-Checking/Automated%20fact-checking%20-%20Jul%2025.pdf)
 
 ###### Papers
 
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
-* [Computational Fact Checking through Query Pertubations](pdf/Computational_Fact_Checking_through_Query_Pertubations.pdf)
-* [Discrimintive Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
+* [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
 ## Natural Language Processing
