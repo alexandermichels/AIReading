@@ -1,4 +1,4 @@
-# Recommended Sources on A.I./Machine Learning
+<center><h1>Recommended Sources on A.I./Machine Learning</h1></center>
 
 ## Table of Contents
 * General Machine Learning and Artificial Intelligence
@@ -6,8 +6,12 @@
 * Natural Language Processing
   * General
   * word2vec and doc2vec
+* Relational Learning
+  * General
+  * Managing Relational Data
+  * SPARQL Protocol and RDF Query Language
 
-## General Machine Learning and Artificial Intelligence
+<center><h2>General Machine Learning and Artificial Intelligence</h2></center>
 
 ##### [Andrej Karpathy Blog](http://karpathy.github.io/)
 
@@ -33,13 +37,14 @@ I recommend starting here for basic Neural Network concepts.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-nlp)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-## Knowledge Graphs and Computational Fact-Checking
+<center><h2>Knowledge Graphs and Computational Fact-Checking</h2></center>
 
-This is cool stuff
+Knowledge Graphs are an increasingly popular data structure for representing relational information. They assume a knowledge base in the form of relational triples
+(subject, predicate, object) and model these triples using a graph an ordered pair G=(V,E) where V is a set of concept nodes and E is a set of predicate edges.
 
 * [Automated Fact-Checking presentation by Joshua Chen](http://joshchen.io/Computational%20Fact-Checking/Automated%20fact-checking%20-%20Jul%2025.pdf)
 
-###### Papers
+##### Papers
 
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
@@ -47,19 +52,19 @@ This is cool stuff
 * [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
-## Natural Language Processing
+<center><h2>Natural Language Processing</h2></center>
 
-Copies of these papers are in the PDF directory. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
+Natural language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
 
 #### General
 
-###### Articles, Blogposts, and Tutorials
+##### Articles, Blogposts, and Tutorials
 
 * [edX Course on Natural Language Processing](https://courses.edx.org/courses/course-v1:Microsoft+DEV288x+1T2018/course/)
 * [Oxford Deep NLP 2017 Course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [Regular Expressions 101](https://regex101.com/)
 
-###### Papers
+##### Papers
 
 * [Evolving Better Stoplists for Document Clustering and Web Intelligence](https://pdfs.semanticscholar.org/c53f/17e9ae7ff1ba13aba902739f4df85054cb0a.pdf)
 * [On Stopwords, Filtering and Data Sparsity for Sentiment Analysis of Twitter](http://oro.open.ac.uk/40666/1/292_Paper.pdf)
@@ -72,17 +77,43 @@ Copies of these papers are in the PDF directory. I recommend starting with "Text
 
 *Efficient Estimation of Word Representations in Vector Space* and *Distributed Representations of Words and Phrases and their Compositionality* started it all. Here are the links for documentation on [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html).
 
-###### Articles, Blogposts, and Tutorials
+##### Articles, Blogposts, and Tutorials
 
 * [A Gentle Introduction to Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
 * [Vector Representations of Words](https://www.tensorflow.org/tutorials/word2vec)
 * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 * [Word2Vec Tutorial Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 
-###### Papers
+##### Papers
 
 * [An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation](pdf/An_Empirical_Evaluation_of_doc2vec_with_Practical_Insights_into_Document_Embedding_Generation.pdf)
 * [Distributed Representations of Sentences and Documents](pdf/Distributed_Representations_of_Sentences_and_Documents.pdf)
 * [Distributed Representations of Words and Phrases and their Compositionality](pdf/Distributed_Representations_of_Words_and_Phrases_and_their_Compositionality.pdf)
 * [Efficient Estimation of Word Representations in Vector Space](pdf/Efficient_Estimation_of_Word_Representations_in_Vector_Space.pdf)
 * [Neural Network Doc2vec in Automated Sentiment Analysis for Short Informal Texts](pdf/Neural_Network_Doc2vec_in_Automated_Sentiment_Analysis_for_Short_Informal_Texts.pdf)
+
+
+<center><h2>Relational Learning</h2></center>
+
+Statistical relational learning (SRL) is a subdiscipline of artificial intelligence and machine learning that is concerned with domain models that exhibit both uncertainty (which can be dealt with using statistical methods) and complex, relational structure. Note that SRL is sometimes called Relational Machine Learning (RML) in the literature. Typically, the knowledge representation formalisms developed in SRL use (a subset of) first-order logic to describe relational properties of a domain in a general manner (universal quantification) and draw upon probabilistic graphical models (such as Bayesian networks or Markov networks) to model the uncertainty; some also build upon the methods of inductive logic programming.
+
+#### General
+
+##### Papers
+
+* [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
+
+#### Managing Relational Data
+
+##### Resource Description Framework
+
+* [Getting Started with RDFLib](http://rdflib.readthedocs.io/en/stable/gettingstarted.html)
+* [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
+* [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+
+##### SPARQL Protocol and RDF Query Language
+
+* [Querying with SPARQL](http://rdflib.readthedocs.io/en/stable/intro_to_sparql.html)
+* [SPARQL Endpoint Interface to Python](https://rdflib.github.io/sparqlwrapper/)
+* [SPARQL Protocol and RDF Query Language](https://en.wikipedia.org/wiki/SPARQL)
+* [SPARQL Wrapper](https://github.com/RDFLib/sparqlwrapper)
