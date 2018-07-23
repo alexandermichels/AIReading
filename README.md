@@ -106,13 +106,13 @@ Statistical relational learning (SRL) is a subdiscipline of artificial intellige
 
 #### Managing Relational Data
 
-##### Resource Description Framework
+###### Resource Description Framework
 
 * [Getting Started with RDFLib](http://rdflib.readthedocs.io/en/stable/gettingstarted.html)
 * [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
-##### SPARQL Protocol and RDF Query Language
+###### SPARQL Protocol and RDF Query Language
 
 * [Querying with SPARQL](http://rdflib.readthedocs.io/en/stable/intro_to_sparql.html)
 * [SPARQL Endpoint Interface to Python](https://rdflib.github.io/sparqlwrapper/)
