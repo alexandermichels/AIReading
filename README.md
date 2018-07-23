@@ -74,7 +74,7 @@ Copies of these papers are in the PDF directory. I recommend starting with "Text
 
 ###### Articles, Blogposts, and Tutorials
 
-* [A Gentle Intorduction to Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
+* [A Gentle Introduction to Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
 * [Vector Representations of Words](https://www.tensorflow.org/tutorials/word2vec)
 * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 * [Word2Vec Tutorial Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
