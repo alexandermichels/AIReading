@@ -9,7 +9,8 @@
 * Relational Learning
   * General
   * Managing Relational Data
-  * SPARQL Protocol and RDF Query Language
+    * Resource Description Framework
+    * SPARQL Protocol and RDF Query Language
 
 <center><h2>General Machine Learning and Artificial Intelligence</h2></center>
 
