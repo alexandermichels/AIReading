@@ -9,7 +9,8 @@
 * Relational Learning
   * General
   * Managing Relational Data
-  * SPARQL Protocol and RDF Query Language
+    * Resource Description Framework
+    * SPARQL Protocol and RDF Query Language
 
 <center><h2>General Machine Learning and Artificial Intelligence</h2></center>
 
@@ -49,6 +50,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [Philosophers are Mortal: Inferring the Truth of Unseen Facts](pdf/Philosophers_are_Mortal_Inferring_the_Truth_of_Unseen_Facts.pdf)
 * [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
@@ -105,13 +107,13 @@ Statistical relational learning (SRL) is a subdiscipline of artificial intellige
 
 #### Managing Relational Data
 
-##### Resource Description Framework
+###### Resource Description Framework
 
 * [Getting Started with RDFLib](http://rdflib.readthedocs.io/en/stable/gettingstarted.html)
 * [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
-##### SPARQL Protocol and RDF Query Language
+###### SPARQL Protocol and RDF Query Language
 
 * [Querying with SPARQL](http://rdflib.readthedocs.io/en/stable/intro_to_sparql.html)
 * [SPARQL Endpoint Interface to Python](https://rdflib.github.io/sparqlwrapper/)
