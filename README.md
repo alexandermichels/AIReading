@@ -6,6 +6,9 @@
 * Natural Language Processing
   * General
   * word2vec and doc2vec
+* Parsing to Logical Form
+  * First-Order Logic
+  * Subject-Predicate-Object Triples
 * Relational Learning
   * General
   * Managing Relational Data
@@ -94,6 +97,26 @@ Natural language processing (NLP) is an area of computer science and artificial 
 * [Efficient Estimation of Word Representations in Vector Space](pdf/Efficient_Estimation_of_Word_Representations_in_Vector_Space.pdf)
 * [Neural Network Doc2vec in Automated Sentiment Analysis for Short Informal Texts](pdf/Neural_Network_Doc2vec_in_Automated_Sentiment_Analysis_for_Short_Informal_Texts.pdf)
 
+<center><h2>Parsing to Logical Form</h2></center>
+
+The problem of learning to parse sentences to lambda-calculus representations or Subject-Predicate-Object triples of their underlying semantics.
+
+#### First-Order Logic
+
+##### Papers
+
+* [Online Learning of Relaxed CCG Grammars for Parsing to Logical Form](pdf/Online_Learning_of_Relaxed_CCG_Grammars_for_Parsing_to_Logical_Form.pdf)
+
+#### Subject-Predicate-Object Triples
+
+##### Articles, Blogposts, and Tutorials
+
+* [Reverb](http://reverb.cs.washington.edu/)
+
+##### Papers
+
+* [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
+
 
 <center><h2>Relational Learning</h2></center>
 
@@ -104,7 +127,6 @@ Statistical relational learning (SRL) is a subdiscipline of artificial intellige
 ##### Papers
 
 * [Community Detection in Graphs](pdf/Community_Detection_in_Graphs.pdf)
-* [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
 * [Philosophers are Mortal: Inferring the Truth of Unseen Facts](pdf/Philosophers_are_Mortal_Inferring_the_Truth_of_Unseen_Facts.pdf)
 * [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 
