@@ -5,6 +5,7 @@
 * Knowledge Graphs and Computational Fact-Checking
 * Natural Language Processing
   * General
+  * Information Extraction
   * word2vec and doc2vec
 * Parsing to Logical Form
   * First-Order Logic
@@ -53,11 +54,10 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
-* [Open Information Extraction: The Second Generation](pdf/Open_Information_Extraction_The_Second_Generation.pdf)
 * [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
-<center><h2>Natural Language Processing</h2></center>
+<center><h2>Natural Language Processing and Information Extraction</h2></center>
 
 Natural language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation. I recommend starting with "Text Mining: the State of the Art and the Challenges" for an overview of text mining.
 
@@ -74,6 +74,14 @@ Natural language processing (NLP) is an area of computer science and artificial 
 * [Evolving Better Stoplists for Document Clustering and Web Intelligence](https://pdfs.semanticscholar.org/c53f/17e9ae7ff1ba13aba902739f4df85054cb0a.pdf)
 * [On Stopwords, Filtering and Data Sparsity for Sentiment Analysis of Twitter](http://oro.open.ac.uk/40666/1/292_Paper.pdf)
 * [Preprocessing Techniques for Text Mining - An Overview](https://pdfs.semanticscholar.org/1fa1/1c4de09b86a05062127c68a7662e3ba53251.pdf)
+
+#### Information Extraction
+
+Information extraction (IE) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents.
+
+##### Papers
+
+* [Open Information Extraction from the Web](pdf/Open_Information_Extraction_from_the_Web.pdf)
 * [Retrieval Effectiveness on the Web](https://www.sciencedirect.com/science/article/pii/S030645730000039X)
 * [Risk Information Extraction and Aggregation](pdf/Risk_Information_Extraction_and_Aggregation.pdf)
 * [Text Mining: The State of the Art and the Challenges](http://www.ntu.edu.sg/home/asahtan/papers/tm_pakdd99.pdf)
@@ -116,6 +124,8 @@ The problem of learning to parse sentences to lambda-calculus representations or
 ##### Papers
 
 * [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
+* [Identifying Relations for Open Information Extraction](pdf/Identifying_Relations_for_Open_Information_Extraction.pdf)
+* [Open Information Extraction: The Second Generation](pdf/Open_Information_Extraction_The_Second_Generation.pdf)
 
 
 <center><h2>Relational Learning</h2></center>
