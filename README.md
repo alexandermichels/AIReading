@@ -7,9 +7,6 @@
   * General
   * Information Extraction
   * word2vec and doc2vec
-* Parsing to Logical Form
-  * First-Order Logic
-  * Subject-Predicate-Object Triples
 * Relational Learning
   * General
   * Managing Relational Data
@@ -80,6 +77,10 @@ Natural language processing (NLP) is an area of computer science and artificial 
 
 Information extraction (IE) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents.
 
+##### Articles, Blogposts, and Tutorials
+
+* [Reverb](http://reverb.cs.washington.edu/)
+
 ##### Papers
 
 * [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
@@ -109,31 +110,6 @@ Information extraction (IE) is the task of automatically extracting structured i
 * [Distributed Representations of Words and Phrases and their Compositionality](pdf/Distributed_Representations_of_Words_and_Phrases_and_their_Compositionality.pdf)
 * [Efficient Estimation of Word Representations in Vector Space](pdf/Efficient_Estimation_of_Word_Representations_in_Vector_Space.pdf)
 * [Neural Network Doc2vec in Automated Sentiment Analysis for Short Informal Texts](pdf/Neural_Network_Doc2vec_in_Automated_Sentiment_Analysis_for_Short_Informal_Texts.pdf)
-
-<center><h2>Parsing to Logical Form</h2></center>
-
-The problem of learning to parse sentences to lambda-calculus representations or Subject-Predicate-Object triples of their underlying semantics.
-
-#### First-Order Logic
-
-##### Papers
-
-* [Online Learning of Relaxed CCG Grammars for Parsing to Logical Form](pdf/Online_Learning_of_Relaxed_CCG_Grammars_for_Parsing_to_Logical_Form.pdf)
-
-#### Subject-Predicate-Object Triples
-
-##### Articles, Blogposts, and Tutorials
-
-* [Reverb](http://reverb.cs.washington.edu/)
-
-##### Papers
-
-* [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
-* [Identifying Relations for Open Information Extraction](pdf/Identifying_Relations_for_Open_Information_Extraction.pdf)
-* [OpenIE-based approach for Knowledge Graph construction from text](pdf/OpenIE-based_approach_for_Knowledge_Graph_construction_from_text.pdf)
-* [Open Information Extraction from the Web](pdf/Open_Information_Extraction_from_the_Web.pdf)
-* [Open Information Extraction: The Second Generation](pdf/Open_Information_Extraction_The_Second_Generation.pdf)
-
 
 <center><h2>Relational Learning</h2></center>
 
