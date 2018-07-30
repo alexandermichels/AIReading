@@ -54,6 +54,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [OpenIE-based approach for Knowledge Graph construction from text](pdf/OpenIE-based_approach_for_Knowledge_Graph_construction_from_text.pdf)
 * [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
@@ -81,7 +82,11 @@ Information extraction (IE) is the task of automatically extracting structured i
 
 ##### Papers
 
+* [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
+* [Identifying Relations for Open Information Extraction](pdf/Identifying_Relations_for_Open_Information_Extraction.pdf)
+* [OpenIE-based approach for Knowledge Graph construction from text](pdf/OpenIE-based_approach_for_Knowledge_Graph_construction_from_text.pdf)
 * [Open Information Extraction from the Web](pdf/Open_Information_Extraction_from_the_Web.pdf)
+* [Open Information Extraction: The Second Generation](pdf/Open_Information_Extraction_The_Second_Generation.pdf)
 * [Retrieval Effectiveness on the Web](https://www.sciencedirect.com/science/article/pii/S030645730000039X)
 * [Risk Information Extraction and Aggregation](pdf/Risk_Information_Extraction_and_Aggregation.pdf)
 * [Text Mining: The State of the Art and the Challenges](http://www.ntu.edu.sg/home/asahtan/papers/tm_pakdd99.pdf)
@@ -125,6 +130,8 @@ The problem of learning to parse sentences to lambda-calculus representations or
 
 * [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
 * [Identifying Relations for Open Information Extraction](pdf/Identifying_Relations_for_Open_Information_Extraction.pdf)
+* [OpenIE-based approach for Knowledge Graph construction from text](pdf/OpenIE-based_approach_for_Knowledge_Graph_construction_from_text.pdf)
+* [Open Information Extraction from the Web](pdf/Open_Information_Extraction_from_the_Web.pdf)
 * [Open Information Extraction: The Second Generation](pdf/Open_Information_Extraction_The_Second_Generation.pdf)
 
 
@@ -147,6 +154,12 @@ Statistical relational learning (SRL) is a subdiscipline of artificial intellige
 * [Getting Started with RDFLib](http://rdflib.readthedocs.io/en/stable/gettingstarted.html)
 * [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+
+Data Sets:
+
+* [Freebase](https://developers.google.com/freebase/)
+* [Linked Open Data Cloud](http://lod-cloud.net/datasets)
+* [PubChem](ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF/)
 
 ###### SPARQL Protocol and RDF Query Language
 
