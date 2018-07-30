@@ -177,7 +177,7 @@ Data Sets:
 
 * [Freebase](https://developers.google.com/freebase/)
 * [Linked Open Data Cloud](http://lod-cloud.net/datasets)
-* [PubChem](ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF/)
+* [PubChem](https://ftp.ncbi.nlm.nih.gov/pubchem/RDF/)
 
 ###### SPARQL Protocol and RDF Query Language
 
