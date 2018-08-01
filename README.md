@@ -1,7 +1,11 @@
 <center><h1>RIPS 2018 Readings</h1></center>
 
 ## Table of Contents
-* General Machine Learning and Artificial Intelligence
+* Machine Learning
+  * General
+  * Naive Bayes
+  * Recurrent Neural Networks
+  * Long-Short Term Memory Recurrent Neural Networks
 * Natural Language Processing
   * General
   * Information Extraction
@@ -16,31 +20,56 @@
     * Resource Description Framework
     * SPARQL Protocol and RDF Query Language
 
-<center><h2>General Machine Learning and Artificial Intelligence</h2></center>
+<center><h2>Machine Learning</h2></center>
 
-##### [Andrej Karpathy Blog](http://karpathy.github.io/)
+Machine learning is a subset of artificial intelligence in the field of computer science that often uses statistical techniques to give computers the ability to "learn" (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed.
 
-* [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+#### General
 
-##### [i am trask](https://iamtrask.github.io/)
+##### Articles, Blogposts, and Tutorials
 
-I recommend starting here for basic Neural Network concepts.
-
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-nlp)
 * [A Neural Network in 11 lines of Python (Part 1)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
-* [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
-##### [WildML](http://www.wildml.com/)
+#### Naive Bayes
+
+Naive Bayes is a simple technique for constructing classifiers: models that assign class labels to problem instances, represented as vectors of feature values, where the class labels are drawn from some finite set.
+
+##### Articles, Blogposts, and Tutorials
+
+* [6 Easy Steps To Learn Naive Bayes Algorithm](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+
+#### Recurrent Neural Networks
+
+A recurrent neural network (RNN) is a class of artificial neural network where connections between nodes form a directed graph along a sequence. This allows it to exhibit dynamic temporal behavior for a time sequence. Unlike feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition.
+
+##### Articles, Blogposts, and Tutorials
 
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 * [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 * [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
 * [Recurrent Neural Networks Tutorial, Part 4 – Implementing a GRU/LSTM RNN with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
+#### Long-Storm Term Memory Recurrent Neural Networks
+
+Long short-term memory (LSTM) units (or blocks) are a building unit for layers of a recurrent neural network (RNN). A common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell is responsible for "remembering" values over arbitrary time intervals; hence the word "memory" in LSTM. Each of the three gates can be thought of as a "conventional" artificial neuron, as in a multi-layer (or feedforward) neural network: that is, they compute an activation (using an activation function) of a weighted sum. Intuitively, they can be thought as regulators of the flow of values that goes through the connections of the LSTM; hence the denotation "gate". There are connections between these gates and the cell.
+
+##### Articles, Blogposts, and Tutorials
+
+* [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+#### Other Sources
+
+* [Andrej Karpathy Blog](http://karpathy.github.io/)
+* [i am trask](https://iamtrask.github.io/)
+* [WildML](http://www.wildml.com/)
 
 ##### Other Sources
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-nlp)
-* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 <center><h2>Natural Language Processing and Information Extraction</h2></center>
 
@@ -162,7 +191,7 @@ The Resource Description Framework is an XML-based language to describe resource
 
 The N3 or subject-predicate-object notation is:
 * <#Buddy> <#owns> <#business>.
-* <#business> <#has-website> <http://www.c2i2.com/~budstv>.
+* <#business> <#has-website> \<http://www.c2i2.com/~budstv >.
 * <#Buddy> <#father-of> <#Lynne>
 
 The serialized RDF looks like this:
