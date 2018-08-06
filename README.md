@@ -96,6 +96,7 @@ Information extraction (IE) is the task of automatically extracting structured i
 
 ##### Articles, Blogposts, and Tutorials
 
+* [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone)
 * [Reverb](http://reverb.cs.washington.edu/)
 
 ##### Papers
@@ -111,7 +112,7 @@ Information extraction (IE) is the task of automatically extracting structured i
 
 #### word2vec and doc2vec
 
-*Efficient Estimation of Word Representations in Vector Space* and *Distributed Representations of Words and Phrases and their Compositionality* started it all. Here are the links for documentation on [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html).
+[Linguistic Regularities in Continuous Space Word Representations](pdf/Linguistic_Regularities_in_Continuous_Space_Word_Representations.pdf) seems to have started it all. Here are the links for documentation on [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html).
 
 ##### Articles, Blogposts, and Tutorials
 
@@ -126,6 +127,7 @@ Information extraction (IE) is the task of automatically extracting structured i
 * [Distributed Representations of Sentences and Documents](pdf/Distributed_Representations_of_Sentences_and_Documents.pdf)
 * [Distributed Representations of Words and Phrases and their Compositionality](pdf/Distributed_Representations_of_Words_and_Phrases_and_their_Compositionality.pdf)
 * [Efficient Estimation of Word Representations in Vector Space](pdf/Efficient_Estimation_of_Word_Representations_in_Vector_Space.pdf)
+* [Linguistic Regularities in Continuous Space Word Representations](pdf/Linguistic_Regularities_in_Continuous_Space_Word_Representations.pdf)
 * [Neural Network Doc2vec in Automated Sentiment Analysis for Short Informal Texts](pdf/Neural_Network_Doc2vec_in_Automated_Sentiment_Analysis_for_Short_Informal_Texts.pdf)
 
 <center><h2>Semantic Web</h2></center>
