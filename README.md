@@ -101,6 +101,7 @@ Information extraction (IE) is the task of automatically extracting structured i
 
 ##### Papers
 
+* [CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web](https://arxiv.org/abs/1804.04635)
 * [From Information to Knowledge Harvesting Entities and Relationships from Web Sources](pdf/From_Information_to_Knowledge_Harvesting_Entities_and_Relationships_from_Web_Sources.pdf)
 * [Identifying Relations for Open Information Extraction](pdf/Identifying_Relations_for_Open_Information_Extraction.pdf)
 * [OpenIE-based approach for Knowledge Graph construction from text](pdf/OpenIE-based_approach_for_Knowledge_Graph_construction_from_text.pdf)
@@ -159,15 +160,19 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 
 #### Computational Fact-Checking
 
+[Center for Complex Networks and Systems Research](http://cnets.indiana.edu/groups/nan/computational-fact-checking/)
+
 ##### Articles, Blogposts, and Tutorials
 
 * [Automated Fact-Checking presentation by Joshua Chen](http://joshchen.io/Computational%20Fact-Checking/Automated%20fact-checking%20-%20Jul%2025.pdf)
 
 ##### Papers
 
+* [Anatomy of an online misinformation network](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196087)
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [Finding Streams in Knowledge Graphs to Support Fact Checking](https://arxiv.org/pdf/1708.07239.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
 <center><h2>Statistical Relational Learning</h2></center>
