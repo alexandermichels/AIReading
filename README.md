@@ -169,6 +169,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 ##### Papers
 
 * [Anatomy of an online misinformation network](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196087)
+* [Computational Fact Checking by Mining Knowledge Graphs](https://search.proquest.com/docview/1958956125)
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
