@@ -4,6 +4,7 @@
 * Machine Learning
   * General
   * Naive Bayes
+  * Convolutional Neural Networks
   * Recurrent Neural Networks
   * Long-Short Term Memory Recurrent Neural Networks
 * Natural Language Processing
@@ -40,6 +41,21 @@ Naive Bayes is a simple technique for constructing classifiers: models that assi
 
 * [6 Easy Steps To Learn Naive Bayes Algorithm](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 * [Wikipedia Page](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+
+#### Convolutional Neural Networks
+
+Convolutional neural network (CNN, or ConvNet) is a class of deep, feed-forward artificial neural networks, most commonly applied to analyzing visual imagery. Convolutional networks were inspired by biological processes in that the connectivity pattern between neurons resembles the organization of the animal visual cortex.
+
+##### Articles, Blogposts, and Tutorials
+
+* [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
+* [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
+* [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+##### Papers
+
+* [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
 
 #### Recurrent Neural Networks
 
