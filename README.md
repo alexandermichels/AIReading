@@ -4,9 +4,11 @@
 * Machine Learning
   * General
   * Naive Bayes
-  * Convolutional Neural Networks
   * Recurrent Neural Networks
   * Long-Short Term Memory Recurrent Neural Networks
+  * Graph Convolutional Networks
+    * Graph Theory
+    * Graph Convolutional Networks
 * Natural Language Processing
   * General
   * Information Extraction
@@ -42,26 +44,6 @@ Naive Bayes is a simple technique for constructing classifiers: models that assi
 * [6 Easy Steps To Learn Naive Bayes Algorithm](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 * [Wikipedia Page](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
-#### Convolutional Neural Networks
-
-Convolutional neural network (CNN, or ConvNet) is a class of deep, feed-forward artificial neural networks, most commonly applied to analyzing visual imagery. Convolutional networks were inspired by biological processes in that the connectivity pattern between neurons resembles the organization of the animal visual cortex.
-
-##### Articles, Blogposts, and Tutorials
-
-* [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
-* [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
-* [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
-* [Wikipedia Page](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-
-##### Papers
-
-* [Convolutional Networks on Graphs for Learning Molecular Fingerprints](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
-* [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/pdf/1606.09375.pdf)
-* [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/pdf/1506.05163.pdf)
-* [Gated Graph Sequence Neural Networks](https://arxiv.org/pdf/1511.05493.pdf)
-* [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
-* [Spectral Networks and Locally Connected Networks on Graphs](https://arxiv.org/pdf/1312.6203.pdf)
-
 #### Recurrent Neural Networks
 
 A recurrent neural network (RNN) is a class of artificial neural network where connections between nodes form a directed graph along a sequence. This allows it to exhibit dynamic temporal behavior for a time sequence. Unlike feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition.
@@ -90,7 +72,40 @@ Long short-term memory (LSTM) units (or blocks) are a building unit for layers o
 * [i am trask](https://iamtrask.github.io/)
 * [WildML](http://www.wildml.com/)
 
-##### Other Sources
+#### Graph Convolutional Networks
+
+Convolutional neural network (CNN, or ConvNet) is a class of deep, feed-forward artificial neural networks, most commonly applied to analyzing visual imagery. Convolutional networks were inspired by biological processes in that the connectivity pattern between neurons resembles the organization of the animal visual cortex.
+
+##### Graph Theory
+
+Graph Theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices, nodes, or points which are connected by edges, arcs, or lines. A graph may be undirected, meaning that there is no distinction between the two vertices associated with each edge, or its edges may be directed from one vertex to another.
+
+###### Articles, Blogposts, and Tutorials
+
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Graph_theory)
+
+###### Papers
+
+* [Graph Spectrum](https://www.springer.com/cda/content/document/cda_downloaddocument/9781461419389-c1.pdf?SGWID=0-0-45-1273441-p174239273)
+* [Spectra of Graphs](https://www.win.tue.nl/~aeb/2WF02/spectra.pdf)
+
+##### Graph Convolutional Networks
+
+###### Articles, Blogposts, and Tutorials
+
+* [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
+* [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
+* [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+###### Papers
+
+* [Convolutional Networks on Graphs for Learning Molecular Fingerprints](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
+* [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/pdf/1606.09375.pdf)
+* [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/pdf/1506.05163.pdf)
+* [Gated Graph Sequence Neural Networks](https://arxiv.org/pdf/1511.05493.pdf)
+* [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
+* [Spectral Networks and Locally Connected Networks on Graphs](https://arxiv.org/pdf/1312.6203.pdf)
 
 <center><h2>Natural Language Processing and Information Extraction</h2></center>
 
