@@ -55,7 +55,12 @@ Convolutional neural network (CNN, or ConvNet) is a class of deep, feed-forward 
 
 ##### Papers
 
+* [Convolutional Networks on Graphs for Learning Molecular Fingerprints](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
+* [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/pdf/1606.09375.pdf)
+* [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/pdf/1506.05163.pdf)
+* [Gated Graph Sequence Neural Networks](https://arxiv.org/pdf/1511.05493.pdf)
 * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
+* [Spectral Networks and Locally Connected Networks on Graphs](https://arxiv.org/pdf/1312.6203.pdf)
 
 #### Recurrent Neural Networks
 
@@ -189,6 +194,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [The Epistemology of Intelligent Semantic Web Systems](https://www.morganclaypool.com/doi/pdf/10.2200/S00708ED1V01Y201603WBE014)
 * [Finding Streams in Knowledge Graphs to Support Fact Checking](https://arxiv.org/pdf/1708.07239.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
