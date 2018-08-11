@@ -10,8 +10,6 @@
   * Recurrent Neural Networks
   * Long-Short Term Memory Recurrent Neural Networks
   * Graph Convolutional Networks
-    * Graph Theory
-    * Graph Convolutional Networks
 * Natural Language Processing
   * General
   * Information Extraction
