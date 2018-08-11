@@ -43,6 +43,7 @@ Graph Theory is the study of graphs, which are mathematical structures used to m
 
 ##### Papers
 
+* [Community Detection in Graphs](pdf/Community_Detection_in_Graphs.pdf)
 * [Distance Closures on Complex Networks](https://arxiv.org/abs/1312.2459?context=cs)
 
 <center><h2>Machine Learning</h2></center>
@@ -219,6 +220,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 * [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
 * [The Epistemology of Intelligent Semantic Web Systems](https://www.morganclaypool.com/doi/pdf/10.2200/S00708ED1V01Y201603WBE014)
 * [Finding Streams in Knowledge Graphs to Support Fact Checking](https://arxiv.org/pdf/1708.07239.pdf)
+* [Random Walk Inference and Learning in A Large Scale Knowledge Base](https://www.cs.cmu.edu/~tom/pubs/lao-emnlp11.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
 
 <center><h2>Statistical Relational Learning</h2></center>
