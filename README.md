@@ -1,6 +1,9 @@
 <center><h1>RIPS 2018 Readings</h1></center>
 
 ## Table of Contents
+* Graph Theory and Network Science
+  * Graph Theory
+  * Network Science
 * Machine Learning
   * General
   * Naive Bayes
@@ -22,6 +25,27 @@
   * Managing Relational Data
     * Resource Description Framework
     * SPARQL Protocol and RDF Query Language
+
+<center><h2>Graph Theory and Network Science</h2></center>
+
+#### Graph Theory
+
+Graph Theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices, nodes, or points which are connected by edges, arcs, or lines. A graph may be undirected, meaning that there is no distinction between the two vertices associated with each edge, or its edges may be directed from one vertex to another.
+
+##### Articles, Blogposts, and Tutorials
+
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Graph_theory)
+
+##### Papers
+
+* [Graph Spectrum](https://www.springer.com/cda/content/document/cda_downloaddocument/9781461419389-c1.pdf?SGWID=0-0-45-1273441-p174239273)
+* [Spectra of Graphs](https://www.win.tue.nl/~aeb/2WF02/spectra.pdf)
+
+#### Network Science
+
+##### Papers
+
+* [Distance Closures on Complex Networks](https://arxiv.org/abs/1312.2459?context=cs)
 
 <center><h2>Machine Learning</h2></center>
 
@@ -76,29 +100,14 @@ Long short-term memory (LSTM) units (or blocks) are a building unit for layers o
 
 Convolutional neural network (CNN, or ConvNet) is a class of deep, feed-forward artificial neural networks, most commonly applied to analyzing visual imagery. Convolutional networks were inspired by biological processes in that the connectivity pattern between neurons resembles the organization of the animal visual cortex.
 
-##### Graph Theory
-
-Graph Theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices, nodes, or points which are connected by edges, arcs, or lines. A graph may be undirected, meaning that there is no distinction between the two vertices associated with each edge, or its edges may be directed from one vertex to another.
-
-###### Articles, Blogposts, and Tutorials
-
-* [Wikipedia Page](https://en.wikipedia.org/wiki/Graph_theory)
-
-###### Papers
-
-* [Graph Spectrum](https://www.springer.com/cda/content/document/cda_downloaddocument/9781461419389-c1.pdf?SGWID=0-0-45-1273441-p174239273)
-* [Spectra of Graphs](https://www.win.tue.nl/~aeb/2WF02/spectra.pdf)
-
-##### Graph Convolutional Networks
-
-###### Articles, Blogposts, and Tutorials
+##### Articles, Blogposts, and Tutorials
 
 * [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
 * [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
 * [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
 * [Wikipedia Page](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
-###### Papers
+##### Papers
 
 * [Convolutional Networks on Graphs for Learning Molecular Fingerprints](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
 * [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/pdf/1606.09375.pdf)
@@ -201,10 +210,11 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 ##### Articles, Blogposts, and Tutorials
 
 * [Automated Fact-Checking presentation by Joshua Chen](http://joshchen.io/Computational%20Fact-Checking/Automated%20fact-checking%20-%20Jul%2025.pdf)
+* [Knowledge Stream GitHub](https://github.com/shiralkarprashant/knowledgestream) based on [Finding Streams in Knowledge Graphs to Support Fact Checking](https://arxiv.org/pdf/1708.07239.pdf)
 
 ##### Papers
 
-* [Anatomy of an online misinformation network](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196087)
+* [Anatomy of an Online Misinformation Network](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196087)
 * [Computational Fact Checking by Mining Knowledge Graphs](https://search.proquest.com/docview/1958956125)
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
