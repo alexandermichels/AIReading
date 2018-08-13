@@ -32,6 +32,9 @@ Graph Theory is the study of graphs, which are mathematical structures used to m
 
 ##### Articles, Blogposts, and Tutorials
 
+* [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+* [How to think in graphs: An illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+* [Introduction to Graph Theory - University of Utah](https://www.math.utah.edu/mathcircle/notes/MC_Graph_Theory.pdf)
 * [Wikipedia Page](https://en.wikipedia.org/wiki/Graph_theory)
 
 ##### Papers
@@ -197,7 +200,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 ##### Papers
 
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
-* [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](https://arxiv.org/pdf/1510.05911.pdf)
 * [OpenIE-based approach for Knowledge Graph construction from text](pdf/OpenIE-based_approach_for_Knowledge_Graph_construction_from_text.pdf)
 * [A Review of Relational Machine Learning for Knowledge Graphs](pdf/A_Review_of_Relational_Machine_Learning_for_Knowledge_Graphs.pdf)
 * [Towards Computational Fact-Checking](pdf/Towards_Computational_Fact-Checking.pdf)
@@ -217,7 +220,7 @@ Knowledge Graphs are an increasingly popular data structure for representing rel
 * [Computational Fact Checking by Mining Knowledge Graphs](https://search.proquest.com/docview/1958956125)
 * [Computational Fact Checking from Knowledge Networks](pdf/Computational_Fact_Checking_from_Knowledge_Networks.pdf)
 * [Computational Fact Checking through Query Perturbations](pdf/Computational_Fact_Checking_through_Query_Perturbations.pdf)
-* [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](pdf/Discriminative_Predicate_Path_Mining_for_fact_checking_in_knowledge_graphs.pdf)
+* [Discriminative Predicate Path Mining for Fact Checking in Knowledge Graphs](https://arxiv.org/pdf/1510.05911.pdf)
 * [The Epistemology of Intelligent Semantic Web Systems](https://www.morganclaypool.com/doi/pdf/10.2200/S00708ED1V01Y201603WBE014)
 * [Finding Streams in Knowledge Graphs to Support Fact Checking](https://arxiv.org/pdf/1708.07239.pdf)
 * [Random Walk Inference and Learning in A Large Scale Knowledge Base](https://www.cs.cmu.edu/~tom/pubs/lao-emnlp11.pdf)
